@@ -1,0 +1,597 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"C",
+				"conferenceroom"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"tab",
+				"table-row"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"border-rad",
+				"border-bottom-left-radius"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"l",
+				"lawyername"
+			],
+			[
+				"lawyer",
+				"lawyerlng"
+			],
+			[
+				"law",
+				"laywerlat"
+			],
+			[
+				"get",
+				"getlng"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"inline",
+				"inline-table"
+			],
+			[
+				"M",
+				"MyLatLng"
+			],
+			[
+				"table-c",
+				"table-column"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"tabe",
+				"table-cell"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"prov",
+				"providerPhone"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gemfile",
+			"settings":
+			{
+				"buffer_size": 514,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.rdoc",
+			"settings":
+			{
+				"buffer_size": 46,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "Package Control: i",
+		"selected_items":
+		[
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Naim/Desktop/workspace/toy_app"
+	],
+	"file_history":
+	[
+		"/Users/Naim/Desktop/workspace/toy_app/Gemfile.lock",
+		"/Users/Naim/Desktop/workspace/toy_app/gemfile",
+		"/Users/Naim/Desktop/untitled folder/app/controllers/SearchController.php",
+		"/Users/Naim/Desktop/untitled folder/app/controllers/AdminController.php",
+		"/Users/Naim/Desktop/untitled folder/app/views/search/index.volt",
+		"/Users/Naim/Desktop/untitled folder/public/js/login.js",
+		"/Users/Naim/Desktop/untitled folder/app/config/routes.php",
+		"/Users/Naim/Desktop/untitled folder/app/controllers/ProfileController.php",
+		"/Users/Naim/Desktop/untitled folder/app/views/index/index.volt",
+		"/Users/Naim/Desktop/untitled folder/app/views/profile/conferenceroom.volt",
+		"/Users/Naim/Desktop/untitled folder/public/js/profile.js",
+		"/Users/Naim/Desktop/untitled folder/app/views/profile/show.volt",
+		"/Users/Naim/Desktop/untitled folder/app/views/partials/header.volt",
+		"/Users/Naim/Desktop/untitled folder/app/views/signup/type.volt",
+		"/Users/Naim/Desktop/untitled folder/public/js/theme.js",
+		"/Users/Naim/Desktop/untitled folder/public/js/sticky-header.js",
+		"/Users/Naim/Desktop/untitled folder/public/js/header.js",
+		"/Users/Naim/Desktop/untitled folder/public/js/navigation.js",
+		"/Users/Naim/Desktop/untitled folder/public/css/navigation.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/homepage.css",
+		"/Users/Naim/Desktop/untitled folder/app/views/signup/user.volt",
+		"/Users/Naim/Desktop/untitled folder/app/views/profile/16.html",
+		"/Users/Naim/Desktop/untitled folder/public/vendor/tabnav/style.css",
+		"/Users/Naim/Desktop/untitled folder/app/controllers/UserController.php",
+		"/Users/Naim/Desktop/untitled folder/public/css/LNMprofile.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/style.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/search.css",
+		"/Users/Naim/Desktop/untitled folder/public/vendor/tabnav/reset.css",
+		"/Users/Naim/Desktop/untitled folder/public/vendor/tabnav/navbar.js",
+		"/Users/Naim/Desktop/untitled folder/public/vendor/tabnav/jquery-2.1.1.js",
+		"/Users/Naim/Desktop/untitled folder/app/views/error/404.volt",
+		"/Users/Naim/Downloads/theme.nileforest.com/html/mazel-v1.1/home-canvas-pattern.html",
+		"/Users/Naim/Desktop/lnm/element-tabs-and-accordian.html",
+		"/Users/Naim/Desktop/untitled folder/app/controllers/ProviderController.php",
+		"/Users/Naim/Desktop/untitled folder/app/views/partials/side-menu.volt",
+		"/Users/Naim/Desktop/untitled folder/app/views/partials/footer.volt",
+		"/Users/Naim/Desktop/untitled folder/public/js/contact-form.js",
+		"/Users/Naim/Desktop/website projetcs/lnm/lnmindex.html",
+		"/Users/Naim/Desktop/untitled folder/public/js/plugin/imagesloaded.pkgd.min.js",
+		"/Users/Naim/Desktop/untitled folder/public/js/plugin/EasePack.min.js",
+		"/Users/Naim/Desktop/untitled folder/public/js/plugin/background-check.min.js",
+		"/Users/Naim/Desktop/untitled folder/public/css/ionicons.css",
+		"/Users/Naim/Desktop/untitled folder/public/js/plugin/pollyfill.js",
+		"/Users/Naim/Desktop/untitled folder/public/css/plugin/owl.carousel.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/plugin/jquery.fullPage.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/plugin/colorbox.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/plugin/animate.css",
+		"/Users/Naim/Desktop/untitled folder/app/views/profile/test",
+		"/Users/Naim/Desktop/untitled folder/public/js/jquery.icheck.min.js",
+		"/Users/Naim/Desktop/untitled folder/public/js/jquery-1.11.2.min.js",
+		"/Users/Naim/Desktop/untitled folder/public/css/jquery-ui.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/plugin/YTPlayer.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/plugin/smoothproducts.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/plugin/mediaelementplayer.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/plugin/jquery.fs.tipper.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/plugin/jPushMenu.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/plugin/flexslider.css",
+		"/Users/Naim/Desktop/untitled folder/public/js/bootstrap.min.js",
+		"/Users/Naim/Desktop/lnm/js/navigation.js",
+		"/Users/Naim/Desktop/untitled folder/public/css/error.css",
+		"/Users/Naim/Desktop/untitled folder/public/js/search.js",
+		"/Users/Naim/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/sftp-config.sublime-workspace",
+		"/Users/Naim/Desktop/untitled folder/public/css/chroma.css",
+		"/Users/Naim/Desktop/untitled folder/public/js/map-icons.min.js",
+		"/Users/Naim/Desktop/untitled folder/public/css/map-icons.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/register.css",
+		"/Users/Naim/Desktop/untitled folder/public/css/preview.css",
+		"/Users/Naim/Desktop/untitled folder/sftp-config.json",
+		"/Users/Naim/Desktop/untitled folder/app/views/search/othersearch.volt",
+		"/Users/Naim/Desktop/untitled folder/app/models/ProviderPhone.php",
+		"/Users/Naim/Desktop/untitled folder/app/models/Provider.php",
+		"/Users/Naim/Downloads/www.lawnearme.com/Melissa-Conner/16.html",
+		"/Users/Naim/Desktop/untitled folder/public/js/LNMprofile.js",
+		"/Users/Naim/Downloads/www.lawnearme.com/Adam-Jay-Jaffe/107.html",
+		"/Users/Naim/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/sftp-config.json",
+		"/Users/Naim/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Naim/Library/Application Support/Sublime Text 3/Packages/User/dired.sublime-settings",
+		"/Users/Naim/Library/Application Support/Sublime Text 3/Packages/FileBrowser/Default.sublime-keymap",
+		"/Users/Naim/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/Naim/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Naim/Desktop/website projetcs/LawNearMe/assets/css/styles.css",
+		"/Users/Naim/Desktop/website projetcs/NewlNM/index.html",
+		"/Users/Naim/Desktop/website projetcs/naimmiah.com/index.html",
+		"/Users/Naim/Desktop/qwt/boomerang-v2.0.1/js/main.js",
+		"/Users/Naim/Desktop/qwt/boomerang-v2.0.1/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"4.2.4",
+			"fadein",
+			"input[type=\"ch",
+			"input",
+			"title=\"Schedule an appointment\"",
+			"ul li",
+			"form-fu",
+			"form-f",
+			"form-",
+			"form",
+			"form-full",
+			"e()",
+			"header()",
+			"sticky",
+			"set",
+			"header",
+			"sticky",
+			"header",
+			"img",
+			"}\n",
+			"img",
+			"footer",
+			"header",
+			"display: none",
+			"cd",
+			"font",
+			"img",
+			"max-width: 7",
+			"max-width: 4",
+			"max-width: 767",
+			"row",
+			"scroll",
+			"form ",
+			"searchform",
+			"wrapper",
+			"mobile",
+			"mobile-menu-icon",
+			"menu-button",
+			"right side Men",
+			"overlay",
+			"item",
+			"header ",
+			"loader",
+			"load",
+			"loading",
+			"form-full",
+			"header .con",
+			"header",
+			"url",
+			"img",
+			"url",
+			"img",
+			"url",
+			"content-caption",
+			"url",
+			"font-fam",
+			"font",
+			"align",
+			"addresses",
+			"telep",
+			"location",
+			"address",
+			"url",
+			"font",
+			"law",
+			"panel",
+			"phone",
+			"popup",
+			"melissa",
+			"messila",
+			"map",
+			"bio",
+			"font-family",
+			"img",
+			"mark",
+			"p5",
+			"img",
+			"url",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"4.2.2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								514,
+								514
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.rdoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 97.0
+	},
+	"pinned_build_system": "",
+	"project": "firstrails.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

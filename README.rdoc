@@ -1,0 +1,3 @@
+== README
+
+Lets try this out. Firsy rails app.
